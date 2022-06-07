@@ -1,0 +1,21 @@
+.separator{
+    width:60px;
+    height:100px;
+}
+div{
+    width:30%;
+    height:10%;
+}
+.cliping{
+    padding-left: 1%;
+    clip-path: polygon(50% 0, 100% 12.5%, 100% 87.5%, 50% 100%, 0 87.5%, 0 12.5%);
+
+}
+.sep_0
+{
+    transform: translate(100%,280%);
+}
+.sep_1{
+
+    transform: translate(100%,480%);
+}

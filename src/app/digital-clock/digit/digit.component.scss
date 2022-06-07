@@ -1,0 +1,38 @@
+.digit{
+    width:100px;
+    height:300px;
+}
+div{
+    width:15%;
+    height:40%;
+}
+.cliping{
+    padding-left: 1%;
+    clip-path: polygon(50% 0, 100% 12.5%, 100% 87.5%, 50% 100%, 0 87.5%, 0 12.5%);
+
+}
+.number_0{
+    transform: translate(215%,-32%) rotate(90deg);
+}
+.number_1{
+    transform: translate(10%,-80%);
+}
+.number_2{
+    transform: translate(418%,-180%);
+}
+.number_3{
+
+    transform: translate(215%,-228%) rotate(90deg);
+}
+.number_4{
+
+    transform: translate(10%,-275%) ;
+}
+.number_5{
+
+    transform: translate(418%,-375%) ;
+}
+.number_6{
+
+    transform: translate(215%,-425%) rotate(90deg);
+}
